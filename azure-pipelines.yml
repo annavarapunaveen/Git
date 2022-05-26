@@ -17,4 +17,3 @@ steps:
     echo welcome to azure devops
   displayName: 'checking login with azure devops'
 
-
